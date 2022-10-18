@@ -631,3 +631,6 @@ C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Comp
 C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\EntityFrameworkProject.dll
 C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\EntityFrameworkProject.pdb
 C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\EntityFrameworkProject.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\EntityFrameworkProject.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\Header and footer View Components, Crud - Create\EntityFrameworkProject\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Create.cshtml.g.cs
